@@ -39,13 +39,6 @@ CREATE TABLE `user_data` (
 -- Dumping data for table `user_data`
 --
 
-INSERT INTO `user_data` (`id`, `red_input`, `orange_input`, `yellow_input`, `green_input`) VALUES
-(1, 4, 1, 0, 0),
-(2, 4, 1, 3, 2),
-(3, 4, 1, 3, 2),
-(4, 4, 1, 3, 2),
-(5, 4, 1, 3, 2),
-(6, 4, 1, 3, 2);
 
 --
 -- Indexes for dumped tables
